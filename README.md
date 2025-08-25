@@ -1,4 +1,4 @@
-# Rathika React Portfolio
+# Rathika Portfolio
 Interactive, colorful, and professional portfolio built with **React + Vite + Tailwind + Framer Motion + React Icons**.
 
 ## Run
